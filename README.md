@@ -44,3 +44,15 @@ This repository includes full operational runbooks:
 
 This repository functions as a public operations log and a portfolio of practical DevOps experience. It documents how a service is deployed, monitored, maintained, and restored after failure.
 
+## Scripts
+
+### hello_system.py
+
+Minimal diagnostic script that prints operating system, OS release, CPU architecture, and Python version.  
+Used to verify the execution environment during setup and troubleshooting.
+
+**Usage**
+```bash
+python3 scripts/hello_system.py
+
+
