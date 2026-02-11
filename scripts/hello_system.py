@@ -1,5 +1,4 @@
 import platform
-import sys
 
 print("Operating System : ", platform.system())
 print("OS Release       : ", platform.release())

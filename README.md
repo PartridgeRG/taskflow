@@ -55,5 +55,18 @@ Used to verify the execution environment during setup and troubleshooting.
 ```bash
 python3 scripts/hello_system.py
 ```
+### disk_checker.py
 
+Reports disk usage for / using Python's shutil.disk_usage().
 
+Displays:
+- Total disk space (GB)
+- Used space (GB)
+- Free space (GB)
+- Usage percentage
+- Warning if usage exceeds 80%
+
+**Usage**
+```bash
+python3 scripts/disk_checker.py
+```
