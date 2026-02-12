@@ -1,10 +1,10 @@
 # Michihiki
 
-Michihiki is a small web service I operate as a hands-on DevOps training environment.
+Michihiki is a small web service I operate to design, deploy, and maintain infrastructure automation and operational tooling.
 
-The goal of this repository is to demonstrate operational competence: deploying, maintaining, monitoring, and recovering a live service.
+This repository demonstrates operational competence: deploying, maintaining, monitoring, and recovering a live service.
 
-The application itself is intentionally simple. The focus of this project is system operation, reliability, and automation rather than feature development.
+The application itself is intentionally simple. The emphasis is on system reliability, automation, and disciplined operational practices rather than feature development.
 
 ## What this repository demonstrates
 
